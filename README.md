@@ -3,9 +3,6 @@ Use [freshping.io](https://freshping.io) webhook to send notification through Te
 
 ## How to use
 
-Clone this repo
-`git clone https://github.com/saderi/freshping-telegram`
-
 Run php composer to install requirement
 `composer  install`
 
@@ -17,7 +14,3 @@ Get your **chat_id** from [@FalconGate_Bot](https://github.com/A3sal0n/FalconGat
 Make copy of config-sample.php as config.php and update it.
 
 Create webhook in your [freshping.io](https://freshping.io) `setting > integrations > Webhook`
-
-
-## Contribution
-Fork it. I will be very grateful. If you have an idea, put it in issue section.
